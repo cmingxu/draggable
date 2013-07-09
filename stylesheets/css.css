@@ -1,0 +1,25 @@
+.section{
+  width: 100%;
+  min-height: 140px;
+  border: 1px solid gray;
+  margin: 5px;
+}
+
+.section p{
+  background-color: gray;
+  color: white;
+}
+
+.dropable_area{
+  border: 4px dashed gray;
+}
+
+.ui-state-highlight, .ui-state-active{
+  border-bottom: 3px solid red;
+}
+
+
+p span{
+  float: right;
+  margin-right: 40px
+}
